@@ -1,1 +1,1 @@
-# Adult-Dataset-Census-Dataset
+It was an assignment from TCS ILP Innovations Lab. The data was not available in a favourable format with which I could proceed. So wrote a script "Data Collection.ipynb" for that. After that wrapped it into o proper .csv file "Curated_Data". Let me know if anyone wants two more models which I wrote from scratch for it. 
