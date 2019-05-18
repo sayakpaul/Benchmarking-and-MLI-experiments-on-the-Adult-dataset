@@ -3,3 +3,6 @@ The initial experiments were a part of an assignment given from TCS ILP Innovati
 It includes benchmarking and interpretability experiments on the [Adult Data set](https://archive.ics.uci.edu/ml/datasets/adult) using libraries like [`fastai`](docs.fast.ai), [`h2o`](http://docs.h2o.ai) and [`interpret`](https://github.com/Microsoft/interpret).
 
 I show you how easy it is to interpret a blackbox machine learning model with `interpret`. I think the library really stands its name. Along with this, I also show how to use Decision Tree Surrogate to explain models in `h2o`.
+
+To do:
+**Annotate the notebooks in plain English and include short explanations to the various interpretability methods used.**
